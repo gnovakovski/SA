@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "130216420198",
+    "firebase_url": "https://safirebaseproject.firebaseio.com",
+    "project_id": "safirebaseproject",
+    "storage_bucket": "safirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130216420198:android:e5e08bcc42b319d9",
+        "android_client_info": {
+          "package_name": "com.nunes.sa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130216420198-7peh2kj50o4ro961f7gp2m22a3tuc6g8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nunes.sa",
+            "certificate_hash": "C88ABCD7044117CB91B186B9AB177016A3490BF2"
+          }
+        },
+        {
+          "client_id": "130216420198-q2pr6sldftf7jm0rkeu4r9k1n59frapa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw-fjX8H_WlwbhM1AJhf4cUBZGSpedY0Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130216420198-q2pr6sldftf7jm0rkeu4r9k1n59frapa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
