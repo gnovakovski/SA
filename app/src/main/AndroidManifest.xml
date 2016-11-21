@@ -24,6 +24,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".CadastroEquipeActivity" />
+        <activity android:name=".AlunoActivity" />
+        <activity android:name=".AdminActivity"></activity>
     </application>
 
 </manifest>

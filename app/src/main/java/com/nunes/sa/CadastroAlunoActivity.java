@@ -13,6 +13,8 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
+import model.GerenciadorAluno;
+
 
 public class CadastroAlunoActivity extends AppCompatActivity {
     private FirebaseAuth mAuth;
@@ -30,23 +32,32 @@ public class CadastroAlunoActivity extends AppCompatActivity {
         iTelefone = (EditText) findViewById(R.id.txtTelefoneAluno);
     }
 
-    public void btnSalvar(View v){
+    public void btnSalvarAluno(View v){
         String email = iEmail.getText().toString();
         String senha = iSenha.getText().toString();
+        String nome = iNome.getText().toString();
+        int ra = Integer.parseInt(iRa.getText().toString());
+        String telefone = iTelefone.getText().toString();
+        //salva o aluno no firebase
+        GerenciadorAluno gAluno = new GerenciadorAluno();
+        gAluno.SalvarAluno("1",nome,email,senha,ra,telefone);
+        //adiciona o usuário que o Aluno irá usar
+       mAuth.addAuthStateListener(mAuthListener);
         mAuth.createUserWithEmailAndPassword(email, senha)
                 .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
                     @Override
                     public void onComplete(@NonNull Task<AuthResult> task) {
-                        Toast.makeText(CadastroAlunoActivity.this, "Cadastro Efetuado com sucesso!", Toast.LENGTH_LONG);
-                        Intent intent = new Intent(CadastroAlunoActivity.this, MainActivity.class);
-                        startActivity(intent);
-                        finish();
-                        // If sign in fails, display a message to the user. If sign in succeeds
-                        // the auth state listener will be notified and logic to handle the
-                        // signed in user can be handled in the listener.
                         if (!task.isSuccessful()) {
-                            Toast.makeText(CadastroAlunoActivity.this, R.string.auth_failed,
+                            Toast.makeText(CadastroAlunoActivity.this, "Cadastro Falhou",
                                     Toast.LENGTH_SHORT).show();
+                            finish();
+                        }
+                        else if(task.isSuccessful()){
+                            Toast.makeText(CadastroAlunoActivity.this, "Cadastro efetuado com sucesso",
+                                    Toast.LENGTH_SHORT).show();
+                            Intent intent = new Intent(CadastroAlunoActivity.this, AlunoActivity.class);
+                            startActivity(intent);
+                            finish();
                         }
 
 
