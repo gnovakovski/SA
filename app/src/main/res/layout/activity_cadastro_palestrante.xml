@@ -47,7 +47,7 @@
         app:srcCompat="@drawable/ic_done_white_24dp"
         android:id="@+id/btnSalvarPalestrante"
         android:layout_marginTop="118dp"
-        android:onClick="btnSalvar"
+        android:onClick="btnSalvarPalestrante"
         android:layout_below="@+id/txtMiniCurriculo"
         android:layout_centerHorizontal="true" />
 </RelativeLayout>

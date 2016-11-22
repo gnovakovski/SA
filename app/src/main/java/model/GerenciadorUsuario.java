@@ -9,14 +9,13 @@ import com.google.firebase.database.FirebaseDatabase;
 
 public class GerenciadorUsuario {
 
-    public void SalvarUsuario(String email, String senha, int codigoLogin){
-        FirebaseDatabase database = FirebaseDatabase.getInstance();
-        DatabaseReference refEmail = database.getReference("email");
-        refEmail.setValue(email);
-        DatabaseReference refSenha = database.getReference("senha");
-        refSenha.setValue(senha);
-        DatabaseReference refCodigo = database.getReference("codigoLogin");
-        refCodigo.setValue(codigoLogin);
+    public void SalvarUsuario(String email,int codigoLogin){
+
+        DatabaseReference mDatabase = FirebaseDatabase.getInstance().getReference("users");
+        String userId = mDatabase.push().getKey();
+        Usuario user = new Usuario(email,codigoLogin);
+        mDatabase.child(userId).setValue(user);
     }
+
 
 }

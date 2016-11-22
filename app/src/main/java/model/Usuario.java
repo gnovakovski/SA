@@ -20,6 +20,9 @@ public class Usuario {
         this.email = email;
         this.codigoLogin = codigoLogin;
     }
-
+    public Usuario(String email, int codigoLogin) {
+        this.email = email;
+        this.codigoLogin = codigoLogin;
+    }
 
 }

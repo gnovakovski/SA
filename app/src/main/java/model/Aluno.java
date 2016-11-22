@@ -26,6 +26,12 @@ public class Aluno {
         this.telefone = telefone;
         this.ra = ra;
     }
+    public Aluno(int ra, String nome, String email, String telefone) {
+        this.nome = nome;
+        this.email = email;
+        this.telefone = telefone;
+        this.ra = ra;
+    }
 
     @Exclude
     public Map<String, Object> toMap() {

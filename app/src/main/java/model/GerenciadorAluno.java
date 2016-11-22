@@ -9,11 +9,11 @@ import com.google.firebase.database.FirebaseDatabase;
 
 public class GerenciadorAluno {
 
-    public void SalvarAluno(String alunoId, String nome, String email, String senha, int ra, String telefone){
-        Aluno aluno = new Aluno(ra,nome,email,senha,telefone);
-        FirebaseDatabase database = FirebaseDatabase.getInstance();
-        DatabaseReference refNome = database.getReference();
-        refNome.child("alunos").setValue(aluno);
+    public void SalvarAluno(String nome, String email,int ra, String telefone){
+        DatabaseReference mDatabase = FirebaseDatabase.getInstance().getReference("alunos");
+        Aluno aluno = new Aluno(ra,nome,email,telefone);
+        String alunoId = Integer.toString(aluno.ra);
+        mDatabase.child(alunoId).setValue(aluno);
     }
 
 }
