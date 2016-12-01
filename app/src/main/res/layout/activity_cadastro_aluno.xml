@@ -92,7 +92,7 @@
         android:layout_centerHorizontal="true"
         android:onClick="btnSalvarAluno" />
     <ProgressBar
-        android:id="@+id/progressBar"
+        android:id="@+id/progressBarAluno"
         android:layout_width="30dp"
         android:layout_height="30dp"
         android:layout_gravity="center|bottom"

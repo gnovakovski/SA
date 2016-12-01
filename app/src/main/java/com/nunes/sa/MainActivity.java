@@ -37,6 +37,10 @@ public class MainActivity extends AppCompatActivity {
                     Intent intent = new Intent(MainActivity.this,AdminActivity.class);
                     startActivity(intent);
                 }
+                else if(position == 3){
+                    Intent intent = new Intent(MainActivity.this, CertificadoActivity.class);
+                    startActivity(intent);
+                }
             }
         });
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
@@ -44,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         getSupportActionBar().setTitle("Semana Acadêmica");
     }
     private void addDrawerItems() {
-        String[] osArray = { "Calendario", "Palestrantes", "Administração" };
+        String[] osArray = { "Calendario", "Palestrantes", "Administração", "Certificados" };
         mAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, osArray);
         mDrawerList.setAdapter(mAdapter);
     }

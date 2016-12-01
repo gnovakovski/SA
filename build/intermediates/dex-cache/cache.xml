@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_f3969d8a0f8b702630ff4fce2a9aedf04e51dc10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -12,12 +21,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Nunes\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="7ff4ba908cd12e57123866c0fc267b5bcbaa9528">
-        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_60eb7aa27ed3294019ae3140c53e45d0224f1332\classes.dex" />
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\twitter-text-1.13.0_09db2f83bcd58c0483e161148b580d460316de87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-23.4.0_bdbc59391b32aaad54a684f7eed22f2e973bef4f\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -34,17 +52,26 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="93fa4e73d12a466730b987a4cb42ce8d5a38be30">
+        sha1="d6e2280b86f257a90a78d21e6b3b4f17b9292deb">
         <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_29eaab0d03bad720d6c733b500afcd883e24ef92\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-auth\1.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
-        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_212f379239f26a03a35fe0df28e1e021c86b4991\classes.dex" />
+        sha1="41f89f608187d3d0c83ce69142ae0d223d40c06d">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-auth-1.0.0_74c64bcc81827c9f379b183a7f92575c4c6e691f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_4db97c333db7cdafff5e95d9635bb6e8d2aaf4d9\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -57,6 +84,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Nunes\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_4f3766cf3013fae0f2c71da1fc93158e6e066d13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.14.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.14.1_36eca922eb578a741b9993603bc044cfbcabbe03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -66,39 +111,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\2.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_57e4fc0d70484e839f4793150d98716888da1eb1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
-        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_813e9b6b6195304772e2066001febad7974fb94f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
-        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_3d6cb5f9a259910ea255170ff1abaa86cb225614\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_bd75a5e9dc1b7c86c631f6f6fbf5a0cc81b2ae52\classes.dex" />
+        sha1="79f10814ccc3cf45cd5c1d566a3f6b5bcf7c1562">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-2.0.0_6130e8be397314272ae65ed790390e677f4535b2\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -111,12 +129,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
-        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_09d00ab21789ae0626e2afe99697ad0a6cdf5f2e\classes.dex" />
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_5de043236d2c75b07e8fe34759d350d1663d613e\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -129,21 +147,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\Nunes\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_030f7c418e4b0268d4d69f2f7c02ddb2d23613bb\classes.dex" />
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_b450ea5c1a4e443574e0fbb7a026b4901ab0a5b1\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jar="C:\Users\Nunes\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
-        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_f24a70fb0c3f0aa78e9a6e6cef3d8b6deef253a4\classes.dex" />
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_f9b84ac51ce0c268d7d3d6b2e4dd09f1f46679fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="933ee15f1696c3583a97e6f6d6662a97f0d2019d">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-core-2.0.0_fb0bced5bf2df947912725bd5fcae06b54497068\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -156,12 +183,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d3913a525c3f8ae2cd0480d8a5f7dad0de4247d6\classes.dex" />
+        sha1="6b57821de6e2cbd036be860fea35812a413a3a9d">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-composer-2.0.0_232707d7df8c191487cd19a54e22d49d5554e20b\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -192,15 +219,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Nunes\AppData\Local\Android\sdk3\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_39bec043b51cf1c5f50f5ebd2384895b3d35f868\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -210,12 +228,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_6717fa06024778ba4c76db116ebf566a729aa263\classes.dex" />
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_fb91fa19e60036146f1e27c57f0a5090bb0d170c\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -225,6 +243,240 @@
         revision="23.0.2"
         sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
         <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_bd7fa63219b760e4a194ed9129621d2ad108d71f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_3253749fe69502a36572ad8b6774584c712977b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_e504f1e65c3c5ce5658f6d8fd5651957dfc0c453\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b0424f06fdb2897efee7b4cf999c60e0b1bbfe50">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-ui-2.0.0_56e453b0c0dd0705db14aef0eef3e2fe83c265c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c7e655e4fd5d01177dfec3daadd938ce2d1f9b03">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-database-1.0.0_0353c9293f72f8b2a1a0845a03c61c1491984371\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_c5a0063a395e97e859c358b0e83f06f2fc52d602\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b7105277df9a8013468215c451ddefac2499d3a">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.2.1_fb4f6e45c26e9e30c6f703c632a2f98988ddf6fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_e78383cd30bc7efc4fe2c972e45e3487df351316\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f55519d0a315a8ce806e2892c5cba285e1f4a864">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_60eb7aa27ed3294019ae3140c53e45d0224f1332\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-storage\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-storage-1.0.0_c6d12b81fcce340ef112390582ffdb9b6829a92a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_212f379239f26a03a35fe0df28e1e021c86b4991\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_b556b12665bf9f5b975af2c091599690d81986f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_57e4fc0d70484e839f4793150d98716888da1eb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_813e9b6b6195304772e2066001febad7974fb94f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_0dc84683b3706c1b9d5fcb65d4ee0fb0bf6d64c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="16226703bab55ec42457666213cd3503799d36a8">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-1.0.0_8181992b0fc4ec8b8f7df006519d1b1caf6b6f66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_3d6cb5f9a259910ea255170ff1abaa86cb225614\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_41f933b9be53059182843f3714f2ee76be8a7003\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_bd75a5e9dc1b7c86c631f6f6fbf5a0cc81b2ae52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_09d00ab21789ae0626e2afe99697ad0a6cdf5f2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_030f7c418e4b0268d4d69f2f7c02ddb2d23613bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_f24a70fb0c3f0aa78e9a6e6cef3d8b6deef253a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_c792bb95c634ceb9a58a7b46e9c7b8b487e5125a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d3913a525c3f8ae2cd0480d8a5f7dad0de4247d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_23eec75b240710a9101990ba6cf8134b3dbe3aaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\AppData\Local\Android\sdk3\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_39bec043b51cf1c5f50f5ebd2384895b3d35f868\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_6717fa06024778ba4c76db116ebf566a729aa263\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -246,15 +498,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
-        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_3253749fe69502a36572ad8b6774584c712977b0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -264,12 +507,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jar="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.13\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_e504f1e65c3c5ce5658f6d8fd5651957dfc0c453\classes.dex" />
+        sha1="23e3acde10f4cf52778f8dc88107fb96459f2392">
+        <dex dex="C:\Users\Nunes\Documents\gabriel\SA\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.fabric.sdk.android-fabric-1.3.13_2695ada2ecaa23919d5de88fdde8fb47e351d19d\classes.dex" />
     </item>
     <item
         is-multidex="true"

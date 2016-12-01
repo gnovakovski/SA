@@ -13,6 +13,8 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
+import model.Equipe;
+
 public class AdminActivity extends AppCompatActivity {
     private ListView mDrawerList;
     private ArrayAdapter<String> mAdapter;
@@ -34,6 +36,16 @@ public class AdminActivity extends AppCompatActivity {
                 if(position == 0){
                     Intent intent = new Intent(AdminActivity.this,AlunoActivity.class);
                     startActivity(intent);
+                }
+                else if(position == 1){
+
+                }
+                else if(position == 2){
+                    Intent intent = new Intent(AdminActivity.this, EquipeActivity.class);
+                    startActivity(intent);
+                }
+                else if(position == 3){
+                    
                 }
             }
         });

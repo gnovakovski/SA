@@ -78,4 +78,12 @@
         android:onClick="btnSalvarEquipe"
         android:layout_below="@+id/txtSenhaEquipe"
         android:layout_centerHorizontal="true" />
+    <ProgressBar
+        android:id="@+id/progressBarEquipe"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center|bottom"
+        android:layout_marginBottom="20dp"
+        android:visibility="gone" />
+
 </RelativeLayout>
